@@ -14,7 +14,7 @@ public class UserGreeting {
         System.out.println();
 
         //output from class
-        System.out.println("Nice to meet you," + name + "!");
+        System.out.println("Nice to meet you, " + name + "!");
         System.out.println("You are " + age + " years old.");
 
         scanner.close();
