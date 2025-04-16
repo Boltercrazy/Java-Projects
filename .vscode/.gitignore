@@ -1,0 +1,14 @@
+# Ignore Java class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore IDE and OS-specific files
+.vscode/
+.DS_Store
+Thumbs.db
